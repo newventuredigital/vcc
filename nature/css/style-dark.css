@@ -1157,12 +1157,12 @@ a.expand-small { /* Small Icon with text*/
 	Featured Header & Breadcumbs
 ///////////////////////////////////////////////////////*/
 .featured-header {
-	margin:89px 0 0 0;
-	border-top: 1px #DBDBDB solid;
-	border-bottom: 1px #DBDBDB solid;
+	margin:120px 0 0 0;
+	border-top: 0px #DBDBDB solid;
+	border-bottom: 0px #DBDBDB solid;
 	background-color: #EBEBEB;
 	background-color: rgba(235,235,235,0.9);
-	background: url(../img/stripes/bg-stripes.png) repeat;
+	background: url() repeat;
 	color: #777;
 	text-transform: uppercase;
 }

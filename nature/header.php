@@ -141,6 +141,7 @@
 <div class="container-fluid featured-header <?php if ( is_page_template('page-home.php') ) { echo 'home-mobile-header'; } ?>">
 	<div class="container">
 		<div class="row">
+			<!--
 			<div class="hide-col col-xs-6">
 				<header>
 					<h2><?php  //Breadcumbs Title
@@ -168,9 +169,10 @@
 					<li> <?php if ( !is_front_page() && !is_home() ) { echo '/';} ?></li>
 					<li><?php echo get_the_title(); ?></li>
 				</ul>
-				<!-- Search button for small devices only displayed at 450px or less screen-->
+			
 				<a href="#" class="trigger-small"><i class="fa fa-search fa-lg"></i></a>
-				<!-- Ends search-->
+				
+				-->
 			</div>
 		</div>
 	</div>

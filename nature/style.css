@@ -10,67 +10,60 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: responsive-layout, custom-header, custom-background, translation-ready,rtl-language-support, editor-style, custom-menu
 Text Domain: nature
 -------------------------------------------------------------- */
+article ul, article ol{margin:0 0 0 40px; list-style-position: inside; }
+article ul li, article ol li{list-style:disc; margin:0 0 10px;}
+
+article ul li ul {margin-top: 10px;}
+
+
 .footer-logo {}
 .footer-tagline {margin-top: 28px;}
-
 .full .textwidget {
   padding-bottom: 0;
 }
-
 .nav>li>a {
   position: relative;
   display: block;
   padding: 9px 12px;
 }
-
 .member-photo {margin-top: 2.25em;}
 .team-biography {padding-top: 10px;}
-
 .alignnone {
     margin: 5px 20px 20px 0;
 }
-
 .aligncenter,
 div.aligncenter {
     display: block;
     margin: 5px auto 5px auto;
 }
-
 .alignright {
     float:right;
     margin: 5px 0 20px 20px;
 }
-
 .alignleft {
     float: left;
     margin: 5px 20px 20px 0;
 }
-
 .aligncenter {
     display: block;
     margin: 5px auto 5px auto;
 }
-
 a img.alignright {
     float: right;
     margin: 5px 0 20px 20px;
 }
-
 a img.alignnone {
     margin: 5px 20px 20px 0;
 }
-
 a img.alignleft {
     float: left;
     margin: 5px 20px 20px 0;
 }
-
 a img.aligncenter {
     display: block;
     margin-left: auto;
     margin-right: auto
 }
-
 .wp-caption {
     background: #fff;
     border: 1px solid #f0f0f0;
@@ -78,19 +71,15 @@ a img.aligncenter {
     padding: 5px 3px 10px;
     text-align: center;
 }
-
 .wp-caption.alignnone {
     margin: 5px 20px 20px 0;
 }
-
 .wp-caption.alignleft {
     margin: 5px 20px 20px 0;
 }
-
 .wp-caption.alignright {
     margin: 5px 0 20px 20px;
 }
-
 .wp-caption img {
     border: 0 none;
     height: auto;
@@ -99,76 +88,65 @@ a img.aligncenter {
     padding: 0;
     width: auto;
 }
-
 .wp-caption p.wp-caption-text {
     font-size: 11px;
     line-height: 17px;
     margin: 0;
     padding: 0 4px 5px;
 }
-
 .sticky {
-
 }
 .bypostauthor {
-
 }
 .sticky,
 .bypostauthor,
 .gallery-caption {
-	font-size: 11px;
+    font-size: 11px;
 }
 .gallery-item {
-	float: left;
-	padding-right: 5px;
+    float: left;
+    padding-right: 5px;
 }
-
 .size-auto,
 .size-full,
 .size-large,
 .size-medium,
 .size-thumbnail {
-	max-width: 100%;
-	height: auto;
+    max-width: 100%;
+    height: auto;
 }
-
 .sidebar ul li {
-	padding: 0.5em 0;
+    padding: 0.5em 0;
 }
-
 .sidebar ul li:last-child {
-	padding: 0.5em 0 1.5em;
+    padding: 0.5em 0 1.5em;
 }
-
 #wp-calendar td {
-	padding: 2px;
+    padding: 2px;
 }
-
 #calendar_wrap {
-	padding-bottom: 1.5em;
+    padding-bottom: 1.5em;
 }
-
 #wp-calendar caption {
-	margin-bottom: 1em;
+    margin-bottom: 1em;
 }
-
 .textwidget {
-	padding-bottom: 1.5em;
+    padding-bottom: 1.5em;
 }
 .search-title {
-	font-weight: 100;
-	color: #a9a9a9;
+    font-weight: 100;
+    color: #a9a9a9;
 }
 .search-title span{
-	font-weight: 400;
-	color: #000;
+    font-weight: 400;
+    color: #000;
 }
 .logged-in.admin-bar .navbar {
-	margin-top: 32px;
+    margin-top: 32px;
 }
 .margin-home {
-	margin-top: 90px;
+    margin-top: 90px;
 }
+.by-author { display: none; }
 /* WordPress
 -------------------------------------------------------------- */
-

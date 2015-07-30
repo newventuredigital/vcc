@@ -468,6 +468,7 @@ add_action('widgets_init', 'unregister_default_wp_widgets', 1);
 /*===================================================================================
  *  Widgets Custom
 /*===================================================================================*/
+/*
 class nature_latest_posts extends WP_Widget{
 
     function nature_latest_posts()
@@ -575,6 +576,8 @@ function nature_widgets_latest_posts() {
     register_widget('nature_latest_posts');
 }
 add_action('widgets_init', 'nature_widgets_latest_posts');
+*/
+
 /*===================================================================================
  *  Widgets Recent Comments
 /*===================================================================================*/

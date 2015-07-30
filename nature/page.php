@@ -2,7 +2,7 @@
 /**
  * @package Nature WP
 */
-get_header();?>
+get_header(); ?>
 <div id="post-<?php the_ID(); ?>" <?php post_class( 'container-fluid'); ?>>
 	<div class="container">
 		<div class="row">
@@ -17,15 +17,15 @@ get_header();?>
 
 				</article>
 				<div class="clear bottom"></div>
-				<hr>
-				 <?php comments_template(); ?>
+				
+				<!--<hr>-->
+				 <?php // comments_template(); ?>
 			</div><!-- col-md-8 -->
-		<?php endwhile; endif ?>
+		<?php endwhile; endif; ?>
 
 		<?php get_sidebar(); ?>
 		</div>
 	</div>
 </div>
 
-
-<?php get_footer();?>
+<?php get_footer(); ?>
