@@ -1,0 +1,42 @@
+/*///////////////////////////////////
+	Styles for old ie browser
+//////////////////////////////////*/
+.trigger-overlay i,
+.trigger-small i,
+.clock-container,
+.time-big {
+	display: none;
+}
+.cs-style-3 figure {
+	margin-bottom: 20px;
+	overflow: initial;
+}
+.cs-style-3 figcaption {
+ 	height: 70px;
+}
+.grid figcaption{
+	padding-top: 6px;
+}
+.grid figcaption h4 {
+	margin-top: 0;
+	font-size: 1em;
+}
+.grid figcaption span {
+	display: none;
+}
+.grid figcaption a {
+	padding: 2px 10px;
+	font-size: 0.8em;
+	border: 1px solid #FFF;
+	margin-top: -15px;
+}
+.project-detail,
+.project-description {
+	height: auto;
+}
+.col-lg-3{
+	width: 24%;
+}
+.navbar-nav>li>.dropdown-menu {
+	margin-top: 0;
+}

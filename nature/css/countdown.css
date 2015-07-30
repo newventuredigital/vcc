@@ -1,0 +1,84 @@
+/* COUNTDOWN - Inspiration http://fff.cmiscm.com/#!/section/flipclock */
+/* ----------------------------------------------------------------------------------------- */
+.time-big {
+	padding: 8px 0 5px 15px;
+	border: 1px #DBDBDB solid;
+	width: 262px;
+	margin-top: 4px;
+	-webkit-box-shadow: 0px 5px 5px #DBDBDB;
+	   -moz-box-shadow: 0px 5px 5px #DBDBDB;
+	        box-shadow: 0px 5px 5px #DBDBDB;
+}
+.clock-container{
+	font-family:Helvetica,Arial,sans-serif;
+}
+.countdown{
+	display:table-cell;
+	font-weight:normal;
+}
+.countdown .item{
+	display:inline-block;
+	vertical-align:bottom;
+	position:relative;
+	font-weight:700;
+	font-size:2.2em;
+	line-height:1.9em;
+	text-align:center;
+	color:#404040;
+	padding:0 5px;
+	overflow:hidden;
+}
+.countdown .item-ss{
+	font-size:2.2em;
+	line-height:1.9em;
+}
+.countdown .item:after{
+	content:'';
+	display:block;
+}
+.countdown .label{
+	text-transform:uppercase;
+	display:block;
+	position:absolute;
+	font-weight:400;
+	line-height:normal;
+	bottom:0;
+	font-size:0.25em;
+	color:#404040;
+	padding:0 0 4px;
+}
+.label .label-dd {
+	margin-left: 15px;
+	}
+.time-left {
+	color: #404040;
+	margin: 0 0 -12px 40px;
+	text-transform: uppercase;
+	font-size: 0.8em;
+}
+.time-left-clock i{
+	float: left;
+	margin-top: 10px;
+	color:  #404040;
+}
+/*///////////////////////////////////////////////////////
+	Media Query
+///////////////////////////////////////////////////////*/
+@media screen and (max-width: 1200px){
+	.time-big{
+		margin-bottom: 20px;
+	}
+}
+	@media screen and (max-width: 992px){
+	.time{
+		margin:10px 0 10px 180px;
+	}
+}
+@media screen and (max-width: 768px){
+
+}
+@media screen and (max-width: 450px){
+	.clock-container {
+		float: left;
+	}
+}

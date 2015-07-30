@@ -1,0 +1,1554 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nature_wp\n"
+"POT-Creation-Date: 2014-10-23 19:02-0400\n"
+"PO-Revision-Date: 2014-10-23 19:02-0400\n"
+"Last-Translator: \n"
+"Language-Team: Pixel Cake <http://www.pixelcake.com.br>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "Sorry! The page that you are looking for is not available"
+msgstr ""
+
+#: 404.php:12
+msgid "Try to make a search"
+msgstr ""
+
+#: 404.php:28 single.php:105
+msgid "You might like:"
+msgstr ""
+
+#: 404.php:49 page-events.php:67 page-home.php:283 page-projects.php:75
+#: single.php:136
+msgid "Read More"
+msgstr ""
+
+#: archive.php:15
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:17
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:19
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:21
+msgid "Archives"
+msgstr ""
+
+#: archive.php:29 search.php:16
+msgid "By "
+msgstr ""
+
+#: archive.php:30 search.php:17
+msgid "on "
+msgstr ""
+
+#: archive.php:31 search.php:18
+msgid "in "
+msgstr ""
+
+#: comments.php:23 comments.php:43
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:24 comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:25 comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:12 page-full-width.php:17 page-left-sidebar.php:17
+msgid "No content"
+msgstr ""
+
+#: footer.php:14
+msgid " You have to add content in widget sidebar!"
+msgstr ""
+
+#: footer.php:73
+msgid "close "
+msgstr ""
+
+#: footer.php:78
+msgid "Search..."
+msgstr ""
+
+#: functions.php:172
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:184
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:298
+msgid "&laquo;"
+msgstr ""
+
+#: functions.php:299
+msgid "&raquo;"
+msgstr ""
+
+#: functions.php:326
+msgid "Name*"
+msgstr ""
+
+#: functions.php:329
+msgid "Email*"
+msgstr ""
+
+#: functions.php:332 includes/config-meta-boxes.php:311
+msgid "Website"
+msgstr ""
+
+#: functions.php:342
+msgid "Comments*"
+msgstr ""
+
+#: functions.php:349 page-contact.php:152
+msgid "Submit"
+msgstr ""
+
+#: functions.php:370
+msgid "Since you are logged in you can leave your opinion, we do apreciate!"
+msgstr ""
+
+#: functions.php:529 functions.php:620
+msgid "Widget Title"
+msgstr ""
+
+#: functions.php:533 functions.php:628
+msgid "Post Type"
+msgstr ""
+
+#: functions.php:536
+msgid "Posts"
+msgstr ""
+
+#: functions.php:539 includes/custom-post-type.php:9
+#: includes/custom-post-type.php:11
+msgid "Project"
+msgstr ""
+
+#: functions.php:624
+msgid "Total Posts"
+msgstr ""
+
+#: functions.php:631
+msgid "Comments Blog"
+msgstr ""
+
+#: functions.php:634
+msgid "Comments Project"
+msgstr ""
+
+#: functions.php:654
+msgid "A list of your site&#8217;s Pages."
+msgstr ""
+
+#: functions.php:655
+msgid "Nature :: Pages"
+msgstr ""
+
+#: functions.php:669
+msgid "Pages"
+msgstr ""
+
+#: functions.php:728
+msgid "Title:"
+msgstr ""
+
+#: functions.php:730
+msgid "Sort by:"
+msgstr ""
+
+#: functions.php:732
+msgid "Page title"
+msgstr ""
+
+#: functions.php:733
+msgid "Page order"
+msgstr ""
+
+#: functions.php:734
+msgid "Page ID"
+msgstr ""
+
+#: functions.php:738
+msgid "Exclude:"
+msgstr ""
+
+#: functions.php:740
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: header.php:150
+msgid "404 page"
+msgstr ""
+
+#: header.php:153
+msgid "Archive page"
+msgstr ""
+
+#: header.php:156
+msgid "Search page"
+msgstr ""
+
+#: header.php:166
+msgid "Home"
+msgstr ""
+
+#: home.php:41 template-blog-large.php:48 template-masonry.php:44
+msgid "Category: "
+msgstr ""
+
+#: options.php:40
+msgid "Branding Settings"
+msgstr ""
+
+#: options.php:44
+msgid "Upload your header SVG logo"
+msgstr ""
+
+#: options.php:45 options.php:51
+msgid "Ideal size 140 x 60px"
+msgstr ""
+
+#: options.php:50
+msgid "Upload your header PNG or JPG logo"
+msgstr ""
+
+#: options.php:56
+msgid "Upload your footer SVG logo"
+msgstr ""
+
+#: options.php:57 options.php:63
+msgid "Ideal size 100 x 50px"
+msgstr ""
+
+#: options.php:62
+msgid "Upload your footer PNG or JPG logo"
+msgstr ""
+
+#: options.php:68
+msgid "Footer trademark"
+msgstr ""
+
+#: options.php:69
+msgid "A text input field."
+msgstr ""
+
+#: options.php:75
+msgid "Main options"
+msgstr ""
+
+#: options.php:79
+msgid "Email used in contact page"
+msgstr ""
+
+#: options.php:80
+msgid "Please fill with your contact email."
+msgstr ""
+
+#: options.php:85
+msgid "Image placeholder"
+msgstr ""
+
+#: options.php:92
+msgid "Select a stylesheet to be loaded"
+msgstr ""
+
+#: options.php:93
+msgid "You can choose one of predefined stylesheet."
+msgstr ""
+
+#: options.php:100
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:101
+msgid "You can add some CSS code here"
+msgstr ""
+
+#: options.php:106
+msgid "Custom JS"
+msgstr ""
+
+#: options.php:107
+msgid ""
+"You can add some JavaScript code here. In case you place jQuery start with "
+"jQuery instead $"
+msgstr ""
+
+#: options.php:112
+msgid "Google Analytics Code"
+msgstr ""
+
+#: options.php:113
+msgid "You can place the Google Analytics JS here"
+msgstr ""
+
+#: page-contact.php:15
+msgid "Please enter your name."
+msgstr ""
+
+#: page-contact.php:22
+msgid "Please enter your email address."
+msgstr ""
+
+#: page-contact.php:25
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: page-contact.php:32
+msgid "Please enter a message."
+msgstr ""
+
+#: page-contact.php:43
+msgid "Please enter what's 7 + 4"
+msgstr ""
+
+#: page-contact.php:104
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: page-contact.php:111
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: page-contact.php:144
+msgid "How much is = 7 + 4:"
+msgstr ""
+
+#: page-events.php:84 page-left-sidebar.php:24 page-projects.php:92
+msgid "Empty Sidebar"
+msgstr ""
+
+#: page-events.php:85
+msgid "You have to add content on widget events sidebar!"
+msgstr ""
+
+#: page-left-sidebar.php:25
+msgid "You have to add content on left sidebar!"
+msgstr ""
+
+#: page-projects.php:52
+msgid "Raised until now:"
+msgstr ""
+
+#: page-projects.php:57
+msgid "&nbsp;Our goal:"
+msgstr ""
+
+#: page-projects.php:66 single-project.php:77
+msgid "Completed: "
+msgstr ""
+
+#: page-projects.php:93
+msgid "You have to add content on widget projects sidebar!"
+msgstr ""
+
+#: search.php:12
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: search.php:27
+msgid "Sorry, we didn't find anything!"
+msgstr ""
+
+#: search.php:28
+msgid "You can try again"
+msgstr ""
+
+#: searchform.php:9
+msgid "Search:"
+msgstr ""
+
+#: single-event.php:39
+msgid "Event Details"
+msgstr ""
+
+#: single-event.php:82 single-project.php:88 single.php:74
+#: includes/custom-post-type.php:191 includes/custom-post-type.php:193
+msgid "Gallery"
+msgstr ""
+
+#: single-event.php:105 single-project.php:111
+msgid "Categories"
+msgstr ""
+
+#: single-gallery.php:67
+msgid "You have to select a column option"
+msgstr ""
+
+#: single-project.php:45
+msgid "Project Details"
+msgstr ""
+
+#: single-project.php:63
+msgid "Raised: "
+msgstr ""
+
+#: single-project.php:68
+msgid "Our Goal: "
+msgstr ""
+
+#: single.php:49
+msgid "Pages:"
+msgstr ""
+
+#: single.php:53
+msgid "Next page"
+msgstr ""
+
+#: single.php:54
+msgid "Previous page"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:90
+#: inc/includes/class-options-framework-admin.php:91
+msgid "Theme Options"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:198
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:229
+msgid "Default options restored."
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:283
+msgid "Options saved."
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:66
+#: inc/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:68
+#: inc/includes/class-options-media-uploader.php:120
+#: includes/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:241
+msgid "No Repeat"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:242
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:243
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:244
+msgid "Repeat All"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:257
+msgid "Top Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:258
+msgid "Top Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:259
+msgid "Top Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:260
+msgid "Middle Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:261
+msgid "Middle Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:262
+msgid "Middle Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:263
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:264
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:265
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:278
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:279
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:353
+msgid "Normal"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:354
+msgid "Italic"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:355
+msgid "Bold"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:356
+msgid "Bold Italic"
+msgstr ""
+
+#: includes/config-meta-boxes.php:44
+msgid "Contact Options"
+msgstr ""
+
+#: includes/config-meta-boxes.php:58
+msgid "Display contact map"
+msgstr ""
+
+#: includes/config-meta-boxes.php:59
+msgid "Do you want display the map for your address?"
+msgstr ""
+
+#: includes/config-meta-boxes.php:64 includes/config-meta-boxes.php:138
+#: includes/config-meta-boxes.php:417 includes/config-meta-boxes.php:460
+#: includes/config-meta-boxes.php:472 includes/config-meta-boxes.php:571
+#: includes/config-meta-boxes.php:637 includes/config-meta-boxes.php:682
+#: includes/config-meta-boxes.php:839 includes/config-meta-boxes.php:862
+#: includes/config-meta-boxes.php:908
+msgid "yes"
+msgstr ""
+
+#: includes/config-meta-boxes.php:65 includes/config-meta-boxes.php:139
+#: includes/config-meta-boxes.php:418 includes/config-meta-boxes.php:461
+#: includes/config-meta-boxes.php:473 includes/config-meta-boxes.php:572
+#: includes/config-meta-boxes.php:638 includes/config-meta-boxes.php:683
+#: includes/config-meta-boxes.php:840 includes/config-meta-boxes.php:863
+#: includes/config-meta-boxes.php:909
+msgid "no"
+msgstr ""
+
+#: includes/config-meta-boxes.php:70 includes/config-meta-boxes.php:222
+msgid "Find the map place by address"
+msgstr ""
+
+#: includes/config-meta-boxes.php:72
+msgid "San Francisco, CA, USA"
+msgstr ""
+
+#: includes/config-meta-boxes.php:76 includes/config-meta-boxes.php:229
+msgid "Location"
+msgstr ""
+
+#: includes/config-meta-boxes.php:77
+msgid "Place the map marker in your adress"
+msgstr ""
+
+#: includes/config-meta-boxes.php:84
+msgid "Text above form left"
+msgstr ""
+
+#: includes/config-meta-boxes.php:85
+msgid "ie.: Contact our team"
+msgstr ""
+
+#: includes/config-meta-boxes.php:91
+msgid "Title right form"
+msgstr ""
+
+#: includes/config-meta-boxes.php:92
+msgid "ie.: We would like to hear from you"
+msgstr ""
+
+#: includes/config-meta-boxes.php:98
+msgid "Bold text bellow title"
+msgstr ""
+
+#: includes/config-meta-boxes.php:99
+msgid "ie.: Adress, Phone, Social Network"
+msgstr ""
+
+#: includes/config-meta-boxes.php:105
+msgid "Text information"
+msgstr ""
+
+#: includes/config-meta-boxes.php:106
+msgid "ie.: Text area for more detais"
+msgstr ""
+
+#: includes/config-meta-boxes.php:132
+msgid "Display featured image"
+msgstr ""
+
+#: includes/config-meta-boxes.php:133
+msgid ""
+"You can choose if you want display a featured image at the beginning of the "
+"post"
+msgstr ""
+
+#: includes/config-meta-boxes.php:144 includes/config-meta-boxes.php:405
+msgid "Gallery Post"
+msgstr ""
+
+#: includes/config-meta-boxes.php:145
+msgid "You can upload your post gallery here to display in Fotorama JS style!"
+msgstr ""
+
+#: includes/config-meta-boxes.php:162 includes/config-meta-boxes.php:252
+msgid "Date"
+msgstr ""
+
+#: includes/config-meta-boxes.php:163
+msgid "Click to pick a date"
+msgstr ""
+
+#: includes/config-meta-boxes.php:170
+msgid "Raised"
+msgstr ""
+
+#: includes/config-meta-boxes.php:171
+msgid "How much did the project raise? ie. US$ 1,114.00"
+msgstr ""
+
+#: includes/config-meta-boxes.php:178
+msgid "Our goal"
+msgstr ""
+
+#: includes/config-meta-boxes.php:179
+msgid "How much is the goal? ie. US$ 3,000.00"
+msgstr ""
+
+#: includes/config-meta-boxes.php:185 includes/config-meta-boxes.php:236
+#: includes/config-meta-boxes.php:605
+msgid "Button text"
+msgstr ""
+
+#: includes/config-meta-boxes.php:186 includes/config-meta-boxes.php:237
+msgid "The text inside the button"
+msgstr ""
+
+#: includes/config-meta-boxes.php:190 includes/config-meta-boxes.php:241
+msgid "Support this project"
+msgstr ""
+
+#: includes/config-meta-boxes.php:193 includes/config-meta-boxes.php:244
+msgid "Button link"
+msgstr ""
+
+#: includes/config-meta-boxes.php:194
+msgid "The link for donation or more information"
+msgstr ""
+
+#: includes/config-meta-boxes.php:201 includes/config-meta-boxes.php:277
+msgid "Attach images galery"
+msgstr ""
+
+#: includes/config-meta-boxes.php:202
+msgid ""
+"Upload images related to this project. These Images will appear in gallery "
+"of this project page."
+msgstr ""
+
+#: includes/config-meta-boxes.php:223
+msgid "The event address"
+msgstr ""
+
+#: includes/config-meta-boxes.php:245
+msgid "The link for more information"
+msgstr ""
+
+#: includes/config-meta-boxes.php:253
+msgid "The event date"
+msgstr ""
+
+#: includes/config-meta-boxes.php:260
+msgid "(dd M)"
+msgstr ""
+
+#: includes/config-meta-boxes.php:262
+msgid "Select Date"
+msgstr ""
+
+#: includes/config-meta-boxes.php:263
+msgid "dd M"
+msgstr ""
+
+#: includes/config-meta-boxes.php:269
+msgid "Time"
+msgstr ""
+
+#: includes/config-meta-boxes.php:270
+msgid "The event time"
+msgstr ""
+
+#: includes/config-meta-boxes.php:278
+msgid ""
+"Upload images related to this event. These Images will appear in gallery of "
+"this project page."
+msgstr ""
+
+#: includes/config-meta-boxes.php:297
+msgid "Full Name"
+msgstr ""
+
+#: includes/config-meta-boxes.php:298
+msgid "The full name"
+msgstr ""
+
+#: includes/config-meta-boxes.php:305
+msgid "Job Title"
+msgstr ""
+
+#: includes/config-meta-boxes.php:312
+msgid "ie.: www.mysite.com"
+msgstr ""
+
+#: includes/config-meta-boxes.php:319
+msgid "Full Link Website"
+msgstr ""
+
+#: includes/config-meta-boxes.php:320
+msgid "ie.: http://www.mysite.com/somepage"
+msgstr ""
+
+#: includes/config-meta-boxes.php:327
+msgid "Text description"
+msgstr ""
+
+#: includes/config-meta-boxes.php:328
+msgid "An explanatory text about you"
+msgstr ""
+
+#: includes/config-meta-boxes.php:335
+msgid "Facebook Profile"
+msgstr ""
+
+#: includes/config-meta-boxes.php:336
+msgid "ie.: http://facebook.com/yourname"
+msgstr ""
+
+#: includes/config-meta-boxes.php:342
+msgid "Twitter Profile"
+msgstr ""
+
+#: includes/config-meta-boxes.php:343 includes/config-meta-boxes.php:350
+#: includes/config-meta-boxes.php:357 includes/config-meta-boxes.php:364
+#: includes/config-meta-boxes.php:665 includes/config-meta-boxes.php:890
+msgid "Full url link"
+msgstr ""
+
+#: includes/config-meta-boxes.php:349
+msgid "Google+ Profile"
+msgstr ""
+
+#: includes/config-meta-boxes.php:356
+msgid "Pinterest Profile"
+msgstr ""
+
+#: includes/config-meta-boxes.php:363
+msgid "Linkedin Profile"
+msgstr ""
+
+#: includes/config-meta-boxes.php:390
+msgid "Select the quantity of columns and the style"
+msgstr ""
+
+#: includes/config-meta-boxes.php:391
+msgid "You can choose how many columns do you want"
+msgstr ""
+
+#: includes/config-meta-boxes.php:396
+msgid "2 columns"
+msgstr ""
+
+#: includes/config-meta-boxes.php:397
+msgid "3 columns"
+msgstr ""
+
+#: includes/config-meta-boxes.php:398
+msgid "6 columns"
+msgstr ""
+
+#: includes/config-meta-boxes.php:399
+msgid "3 col masonry w/ sidebar"
+msgstr ""
+
+#: includes/config-meta-boxes.php:400
+msgid "4 col masonry no sidebar"
+msgstr ""
+
+#: includes/config-meta-boxes.php:406
+msgid "You can upload your post gallery here to display in diferent columns!"
+msgstr ""
+
+#: includes/config-meta-boxes.php:411
+msgid "Display the banner above the galleries"
+msgstr ""
+
+#: includes/config-meta-boxes.php:412
+msgid "You can choose if you want display a banner below the galleries"
+msgstr ""
+
+#: includes/config-meta-boxes.php:423
+msgid "Title banner"
+msgstr ""
+
+#: includes/config-meta-boxes.php:424
+msgid "ie.: Help us change the World"
+msgstr ""
+
+#: includes/config-meta-boxes.php:429
+msgid "Fontawesome icon banner"
+msgstr ""
+
+#: includes/config-meta-boxes.php:430
+msgid ""
+"You can display fontawesome icon here. ie.: fa fa-globe<br>For full list off "
+"available icons visit<br>http://fortawesome.github.io/Font-Awesome/"
+msgstr ""
+
+#: includes/config-meta-boxes.php:435
+msgid "Button text banner"
+msgstr ""
+
+#: includes/config-meta-boxes.php:436
+msgid "ie.: Support Us"
+msgstr ""
+
+#: includes/config-meta-boxes.php:441
+msgid "Fontawesome icon button banner"
+msgstr ""
+
+#: includes/config-meta-boxes.php:442
+msgid "You can call button icon here. ie.: fa fa-heart"
+msgstr ""
+
+#: includes/config-meta-boxes.php:447
+msgid "Url link banner"
+msgstr ""
+
+#: includes/config-meta-boxes.php:448
+msgid "Full adress url ie.:http://www.example.com"
+msgstr ""
+
+#: includes/config-meta-boxes.php:454
+msgid "Display another galleries"
+msgstr ""
+
+#: includes/config-meta-boxes.php:455
+msgid "You can choose if you want display a random gallery below the banner"
+msgstr ""
+
+#: includes/config-meta-boxes.php:466
+msgid "Display a link"
+msgstr ""
+
+#: includes/config-meta-boxes.php:467
+msgid "Display a link below each image"
+msgstr ""
+
+#: includes/config-meta-boxes.php:478
+msgid "Display a title"
+msgstr ""
+
+#: includes/config-meta-boxes.php:479
+msgid "Display a title above the random gallery"
+msgstr ""
+
+#: includes/config-meta-boxes.php:490
+msgid "Home Page Options"
+msgstr ""
+
+#: includes/config-meta-boxes.php:503
+msgid "Slider"
+msgstr ""
+
+#: includes/config-meta-boxes.php:507
+msgid "Welcome"
+msgstr ""
+
+#: includes/config-meta-boxes.php:511
+msgid "Banner Parallax 01"
+msgstr ""
+
+#: includes/config-meta-boxes.php:515
+msgid "Service First Row"
+msgstr ""
+
+#: includes/config-meta-boxes.php:519
+msgid "Service Second Row"
+msgstr ""
+
+#: includes/config-meta-boxes.php:523
+msgid "Team options"
+msgstr ""
+
+#: includes/config-meta-boxes.php:527
+msgid "Banner Parallax 02"
+msgstr ""
+
+#: includes/config-meta-boxes.php:531
+msgid "Random Posts"
+msgstr ""
+
+#: includes/config-meta-boxes.php:545
+msgid "Picture Slider 1"
+msgstr ""
+
+#: includes/config-meta-boxes.php:546
+msgid ""
+"Select a picture for slider, the caption image will be used in the slider "
+"title and the description of the image will be used as the description of "
+"slider "
+msgstr ""
+
+#: includes/config-meta-boxes.php:553
+msgid "Button text slider"
+msgstr ""
+
+#: includes/config-meta-boxes.php:554
+msgid "Default: Read More"
+msgstr ""
+
+#: includes/config-meta-boxes.php:565
+msgid "Display welcome"
+msgstr ""
+
+#: includes/config-meta-boxes.php:566
+msgid "Enable welcome text to show up"
+msgstr ""
+
+#: includes/config-meta-boxes.php:577
+msgid "Title welcome"
+msgstr ""
+
+#: includes/config-meta-boxes.php:578
+msgid "ie.: Welcome to Nature Wordpress"
+msgstr ""
+
+#: includes/config-meta-boxes.php:584
+msgid "Full text description"
+msgstr ""
+
+#: includes/config-meta-boxes.php:590
+msgid "Select color button"
+msgstr ""
+
+#: includes/config-meta-boxes.php:601 includes/config-meta-boxes.php:927
+msgid "Select an option"
+msgstr ""
+
+#: includes/config-meta-boxes.php:612
+msgid "The url button link"
+msgstr ""
+
+#: includes/config-meta-boxes.php:619
+msgid "Picture right side"
+msgstr ""
+
+#: includes/config-meta-boxes.php:620
+msgid "Select a picture to display on right side"
+msgstr ""
+
+#: includes/config-meta-boxes.php:631 includes/config-meta-boxes.php:856
+msgid "Display banner"
+msgstr ""
+
+#: includes/config-meta-boxes.php:632
+msgid "Enable parallax 1 to show up"
+msgstr ""
+
+#: includes/config-meta-boxes.php:643 includes/config-meta-boxes.php:868
+msgid "Upload your image"
+msgstr ""
+
+#: includes/config-meta-boxes.php:644 includes/config-meta-boxes.php:869
+msgid "Minimum width 1200px"
+msgstr ""
+
+#: includes/config-meta-boxes.php:650 includes/config-meta-boxes.php:875
+msgid "Banner Title, HTML allowed"
+msgstr ""
+
+#: includes/config-meta-boxes.php:658 includes/config-meta-boxes.php:883
+msgid "Text Link, HTML allowed"
+msgstr ""
+
+#: includes/config-meta-boxes.php:676
+msgid "Display Services"
+msgstr ""
+
+#: includes/config-meta-boxes.php:677
+msgid "Enable services to show up"
+msgstr ""
+
+#: includes/config-meta-boxes.php:688
+msgid "<strong>Title Services</strong>"
+msgstr ""
+
+#: includes/config-meta-boxes.php:689
+msgid "ie.: Our services"
+msgstr ""
+
+#: includes/config-meta-boxes.php:699
+msgid "<strong>Icon one</strong>"
+msgstr ""
+
+#: includes/config-meta-boxes.php:706
+msgid "Service one"
+msgstr ""
+
+#: includes/config-meta-boxes.php:707
+msgid "First service title"
+msgstr ""
+
+#: includes/config-meta-boxes.php:713
+msgid "Description service one"
+msgstr ""
+
+#: includes/config-meta-boxes.php:714
+msgid "Small description service two"
+msgstr ""
+
+#: includes/config-meta-boxes.php:720
+msgid "<strong>Icon two</strong>"
+msgstr ""
+
+#: includes/config-meta-boxes.php:727
+msgid "Service two"
+msgstr ""
+
+#: includes/config-meta-boxes.php:728 includes/config-meta-boxes.php:775
+msgid "Second service title"
+msgstr ""
+
+#: includes/config-meta-boxes.php:734
+msgid "Description service two"
+msgstr ""
+
+#: includes/config-meta-boxes.php:735
+msgid "Small description service one"
+msgstr ""
+
+#: includes/config-meta-boxes.php:742
+msgid "<strong>Icon three</strong>"
+msgstr ""
+
+#: includes/config-meta-boxes.php:749
+msgid "Service three"
+msgstr ""
+
+#: includes/config-meta-boxes.php:750
+msgid "Third service title"
+msgstr ""
+
+#: includes/config-meta-boxes.php:756
+msgid "Description service three"
+msgstr ""
+
+#: includes/config-meta-boxes.php:757
+msgid "Small description service three"
+msgstr ""
+
+#: includes/config-meta-boxes.php:767
+msgid "<strong>Icon four</strong>"
+msgstr ""
+
+#: includes/config-meta-boxes.php:774
+msgid "Service four"
+msgstr ""
+
+#: includes/config-meta-boxes.php:781
+msgid "Description service four"
+msgstr ""
+
+#: includes/config-meta-boxes.php:782
+msgid "Small description service four"
+msgstr ""
+
+#: includes/config-meta-boxes.php:788
+msgid "<strong>Icon five</strong>"
+msgstr ""
+
+#: includes/config-meta-boxes.php:795
+msgid "Service five"
+msgstr ""
+
+#: includes/config-meta-boxes.php:796
+msgid "Fifth service title"
+msgstr ""
+
+#: includes/config-meta-boxes.php:802
+msgid "Description service five"
+msgstr ""
+
+#: includes/config-meta-boxes.php:803
+msgid "Small description service five"
+msgstr ""
+
+#: includes/config-meta-boxes.php:809
+msgid "<strong>Icon six</strong>"
+msgstr ""
+
+#: includes/config-meta-boxes.php:816
+msgid "Service six"
+msgstr ""
+
+#: includes/config-meta-boxes.php:817
+msgid "Sixth service title"
+msgstr ""
+
+#: includes/config-meta-boxes.php:823
+msgid "Description service six"
+msgstr ""
+
+#: includes/config-meta-boxes.php:824
+msgid "Small description service six"
+msgstr ""
+
+#: includes/config-meta-boxes.php:833
+msgid "<strong>Team Options</strong>"
+msgstr ""
+
+#: includes/config-meta-boxes.php:834
+msgid "Do you want display team row?"
+msgstr ""
+
+#: includes/config-meta-boxes.php:845
+msgid "The link for page team"
+msgstr ""
+
+#: includes/config-meta-boxes.php:857
+msgid "Enable parallax 2 to show up"
+msgstr ""
+
+#: includes/config-meta-boxes.php:901
+msgid "Display posts"
+msgstr ""
+
+#: includes/config-meta-boxes.php:902
+msgid "Enable posts to show up"
+msgstr ""
+
+#: includes/config-meta-boxes.php:914
+msgid "Order posts options"
+msgstr ""
+
+#: includes/config-meta-boxes.php:915
+msgid "Chose how do you want display posts"
+msgstr ""
+
+#: includes/config-meta-boxes.php:920
+msgid "Random"
+msgstr ""
+
+#: includes/config-meta-boxes.php:921
+msgid "Order by post id"
+msgstr ""
+
+#: includes/config-meta-boxes.php:922
+msgid "Order by author"
+msgstr ""
+
+#: includes/config-meta-boxes.php:923
+msgid "Number of comments"
+msgstr ""
+
+#: includes/config-meta-boxes.php:931
+msgid "Title posts"
+msgstr ""
+
+#: includes/config-meta-boxes.php:932
+msgid "ie.: Random posts, Recents posts"
+msgstr ""
+
+#: includes/custom-post-type.php:8
+msgid "Projects"
+msgstr ""
+
+#: includes/custom-post-type.php:10 includes/custom-post-type.php:80
+#: includes/custom-post-type.php:151 includes/custom-post-type.php:192
+msgid "Add New"
+msgstr ""
+
+#: includes/custom-post-type.php:10
+msgid "Project Piece"
+msgstr ""
+
+#: includes/custom-post-type.php:12
+msgid "Edit Project"
+msgstr ""
+
+#: includes/custom-post-type.php:13
+msgid "New Project"
+msgstr ""
+
+#: includes/custom-post-type.php:14
+msgid "View Project"
+msgstr ""
+
+#: includes/custom-post-type.php:15
+msgid "Search Project"
+msgstr ""
+
+#: includes/custom-post-type.php:16
+msgid "No Project found"
+msgstr ""
+
+#: includes/custom-post-type.php:17
+msgid "No Project found in Trash"
+msgstr ""
+
+#: includes/custom-post-type.php:49 includes/custom-post-type.php:59
+msgid "Project Types"
+msgstr ""
+
+#: includes/custom-post-type.php:50
+msgid "Project Type"
+msgstr ""
+
+#: includes/custom-post-type.php:51
+msgid "Search Project Types"
+msgstr ""
+
+#: includes/custom-post-type.php:52
+msgid "All Project Types"
+msgstr ""
+
+#: includes/custom-post-type.php:53
+msgid "Parent Project Type"
+msgstr ""
+
+#: includes/custom-post-type.php:54
+msgid "Parent Project Type:"
+msgstr ""
+
+#: includes/custom-post-type.php:55
+msgid "Edit Project Type"
+msgstr ""
+
+#: includes/custom-post-type.php:56
+msgid "Update Project Type"
+msgstr ""
+
+#: includes/custom-post-type.php:57
+msgid "Add New Project Type"
+msgstr ""
+
+#: includes/custom-post-type.php:58
+msgid "Project Type Name"
+msgstr ""
+
+#: includes/custom-post-type.php:78
+msgid "Events"
+msgstr ""
+
+#: includes/custom-post-type.php:79 includes/custom-post-type.php:80
+#: includes/custom-post-type.php:81
+msgid "Event"
+msgstr ""
+
+#: includes/custom-post-type.php:82
+msgid "Edit Event"
+msgstr ""
+
+#: includes/custom-post-type.php:83
+msgid "New Event"
+msgstr ""
+
+#: includes/custom-post-type.php:84
+msgid "View Event"
+msgstr ""
+
+#: includes/custom-post-type.php:85
+msgid "Search Event"
+msgstr ""
+
+#: includes/custom-post-type.php:86
+msgid "No Event found"
+msgstr ""
+
+#: includes/custom-post-type.php:87
+msgid "No Event found in Trash"
+msgstr ""
+
+#: includes/custom-post-type.php:119 includes/custom-post-type.php:129
+msgid "Event Types"
+msgstr ""
+
+#: includes/custom-post-type.php:120
+msgid "Event Type"
+msgstr ""
+
+#: includes/custom-post-type.php:121
+msgid "Search Event Types"
+msgstr ""
+
+#: includes/custom-post-type.php:122
+msgid "All Event Types"
+msgstr ""
+
+#: includes/custom-post-type.php:123
+msgid "Parent Event Type"
+msgstr ""
+
+#: includes/custom-post-type.php:124
+msgid "Parent Event Type:"
+msgstr ""
+
+#: includes/custom-post-type.php:125
+msgid "Edit Event Type"
+msgstr ""
+
+#: includes/custom-post-type.php:126
+msgid "Update Event Type"
+msgstr ""
+
+#: includes/custom-post-type.php:127
+msgid "Add New Event Type"
+msgstr ""
+
+#: includes/custom-post-type.php:128
+msgid "Event Type Name"
+msgstr ""
+
+#: includes/custom-post-type.php:149
+msgid "Team Members"
+msgstr ""
+
+#: includes/custom-post-type.php:150
+msgid "Team Member"
+msgstr ""
+
+#: includes/custom-post-type.php:151 includes/custom-post-type.php:152
+#: includes/custom-post-type.php:192
+msgid "Member"
+msgstr ""
+
+#: includes/custom-post-type.php:153
+msgid "Edit Member"
+msgstr ""
+
+#: includes/custom-post-type.php:154
+msgid "New Member"
+msgstr ""
+
+#: includes/custom-post-type.php:155
+msgid "View Member"
+msgstr ""
+
+#: includes/custom-post-type.php:156
+msgid "Search Member"
+msgstr ""
+
+#: includes/custom-post-type.php:157
+msgid "No Member found"
+msgstr ""
+
+#: includes/custom-post-type.php:158
+msgid "No Member found in Trash"
+msgstr ""
+
+#: includes/custom-post-type.php:190
+msgid "Galleries"
+msgstr ""
+
+#: includes/custom-post-type.php:194
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/custom-post-type.php:195
+msgid "New Gallery"
+msgstr ""
+
+#: includes/custom-post-type.php:196
+msgid "View Gallery"
+msgstr ""
+
+#: includes/custom-post-type.php:197
+msgid "Search Gallery"
+msgstr ""
+
+#: includes/custom-post-type.php:198
+msgid "No Gallery found"
+msgstr ""
+
+#: includes/custom-post-type.php:199
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: includes/custom_walker_category.php:117
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: includes/customize-nature.php:52
+msgid "Nature Theme Colors"
+msgstr ""
+
+#: includes/customize-nature.php:53
+msgid "Set the main colors of your theme"
+msgstr ""
+
+#: includes/customize-nature.php:65
+msgid "Change your background color"
+msgstr ""
+
+#: includes/customize-nature.php:78
+msgid "Change your link color"
+msgstr ""
+
+#: includes/customize-nature.php:87
+msgid "Menu Theme Colors"
+msgstr ""
+
+#: includes/customize-nature.php:88
+msgid "Set the menu colors of your theme"
+msgstr ""
+
+#: includes/customize-nature.php:100
+msgid "Change your menu background color"
+msgstr ""
+
+#: includes/customize-nature.php:113
+msgid "Primary menu link color"
+msgstr ""
+
+#: includes/customize-nature.php:126
+msgid "Secondary menu link color"
+msgstr ""
+
+#: includes/customize-nature.php:139
+msgid "Change your footer background color"
+msgstr ""
+
+#: includes/shortcodes-nature.php:113
+msgid "Help us change the World"
+msgstr ""
+
+#: includes/shortcodes-nature.php:116
+msgid "Donate now"
+msgstr ""
+
+#: includes/shortcodes-nature.php:136
+msgid "Click here"
+msgstr ""
+
+#: includes/meta-box/inc/field.php:221
+msgid "+"
+msgstr ""
+
+#: includes/meta-box/inc/field.php:231
+msgid "&#8211;"
+msgstr ""
+
+#: includes/meta-box/inc/meta-box.php:244
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: includes/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: includes/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: includes/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: includes/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: includes/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: includes/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: includes/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: includes/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: includes/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: includes/meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: includes/meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: includes/meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: includes/meta-box/inc/fields/post.php:66
+#: includes/meta-box/inc/fields/taxonomy.php:40
+#: includes/meta-box/inc/fields/user.php:62
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: includes/meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
